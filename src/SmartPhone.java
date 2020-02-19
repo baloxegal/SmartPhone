@@ -1,4 +1,4 @@
-@SuppressWarnings("unused")
+
 public class SmartPhone {
 	
 	private String brand;
